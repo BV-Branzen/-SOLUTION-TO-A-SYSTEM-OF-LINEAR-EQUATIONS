@@ -1,8 +1,8 @@
 # -SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 
 ~~~
-Name: Bala Surya S
-Register No: 212225100003
+Name: Branzen B v
+Register No: 212225100005
 ~~~
 
 ## Aim:
